@@ -14,13 +14,13 @@ Meeting Number|Description|Youtube URL
 '040'|*CEH Networking Part One*|[Video](https://www.youtube.com/watch?v=NjfNu9oX9hk)
 '039'|*Guest Speaker Dr. Williams*|[Video](https://www.youtube.com/watch?v=6aNdau1HRFo)
 '038'|*CEH Start*|[Video](https://www.youtube.com/watch?v=nkw9onu7JG8)
-'037'|*Description*|'NA'
-'036'|*Description*|'NA'
-'035'|*Description*|'NA'
-'034'|*Description*|'NA'
-'033'|*Description*|'NA'
-'032'|*Description*|'NA'
-'031'|*Description*|'NA'
+'037'|*Virtual Machine Setup*|'NA'
+'036'|*Red Team Recap*|'NA'
+'035'|*Learning Exploits*|'NA'
+'034'|*Learning DataPackets*|'NA'
+'033'|*Learning KaliTools*|'NA'
+'032'|*Virtual Machine Setup*|'NA'
+'031'|**|'NA'
 '030'|*Description*|'NA'
 '029'|*Description*|'NA'
 '028'|*Description*|'NA'
