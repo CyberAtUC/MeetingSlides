@@ -3,6 +3,7 @@
 
 Meeting Number|Description|Youtube URL
 :-------------|:----------:|:----------
+'050'|*Systems Exploitation: Metasploit*|'N/A'
 '049'|*Systems Exploitation: Sniffing, Man in the Middle, and extra stuff*|'TBD'
 '048'|*Learning About Docker and OpenVas Docker Container*|[Video](https://www.youtube.com/watch?v=iKczL3IuK1Y)
 '047'|*Learning about POC's, CVE's, and Scanning*|[Video](https://www.youtube.com/watch?v=moiok5I8nzc)
