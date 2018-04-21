@@ -4,18 +4,18 @@
 Meeting Number|Description|Youtube URL
 :-------------|:----------:|:----------
 '050'|*Systems Exploitation: Metasploit*|'N/A'
-'049'|*Systems Exploitation: Sniffing, Man in the Middle, and extra stuff*|'TBD'
-'048'|*Learning About Docker and OpenVas Docker Container*|[Video](https://www.youtube.com/watch?v=iKczL3IuK1Y)
-'047'|*Learning about POC's, CVE's, and Scanning*|[Video](https://www.youtube.com/watch?v=moiok5I8nzc)
-'046'|*Direct Recon Part Two*|[Video](https://www.youtube.com/watch?v=bOOvuedEbkk)
-'045'|*Direct Recon Part One*|[Video](https://www.youtube.com/watch?v=FM5lMjIp0GM)
-'044'|*Indirect Recon*|[Video](https://www.youtube.com/watch?v=LXPMGdSacXw)
-'043'|*Cross-Site Scripting (aka XSS)*|[Video](https://www.youtube.com/watch?v=0N2djP0pkjw)
-'042'|*CEH Cryptography*|[Video](https://www.youtube.com/watch?v=oHQSyT4m78g)
-'041'|*CEH Networking Part Two*|[Video](https://www.youtube.com/watch?v=FnhKjalTmK0)
-'040'|*CEH Networking Part One*|[Video](https://www.youtube.com/watch?v=NjfNu9oX9hk)
-'039'|*Guest Speaker Dr. Williams*|[Video](https://www.youtube.com/watch?v=6aNdau1HRFo)
-'038'|*CEH Start*|[Video](https://www.youtube.com/watch?v=nkw9onu7JG8)
+'049'|*Systems Exploitation: Sniffing, Man in the Middle, and extra stuff*|[Video](https://youtu.be/UcmQpeFrLng)
+'048'|*Learning About Docker and OpenVas Docker Container*|[Video](https://youtu.be/iKczL3IuK1Y)
+'047'|*Learning about POC's, CVE's, and Scanning*|[Video](https://youtu.be/moiok5I8nzc)
+'046'|*Direct Recon Part Two*|[Video](https://youtu.be/bOOvuedEbkk)
+'045'|*Direct Recon Part One*|[Video](https://youtu.be/FM5lMjIp0GM)
+'044'|*Indirect Recon*|[Video](https://youtu.be/LXPMGdSacXw)
+'043'|*Cross-Site Scripting (aka XSS)*|[Video](https://youtu.be/0N2djP0pkjw)
+'042'|*CEH Cryptography*|[Video](https://youtu.be/oHQSyT4m78g)
+'041'|*CEH Networking Part Two*|[Video](https://youtu.be/FnhKjalTmK0)
+'040'|*CEH Networking Part One*|[Video](https://youtu.be/NjfNu9oX9hk)
+'039'|*Guest Speaker Dr. Williams*|[Video](https://youtu.be/6aNdau1HRFo)
+'038'|*CEH Start*|[Video](https://youtu.be/nkw9onu7JG8)
 '037'|*Virtual Machine Setup*|'NA'
 '036'|*Red Team Recap*|'NA'
 '035'|*Learning Exploits*|'NA'
